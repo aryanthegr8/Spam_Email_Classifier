@@ -2,7 +2,7 @@
 
 An Email Spam Classifier is a machine learning model designed to automatically detect whether a given email message is spam (unsolicited/junk) or ham (legitimate).
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Python
 Scikit-learn for ML models
